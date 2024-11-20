@@ -36,12 +36,16 @@ This script is designed to create a Megaverse using the Crossmint API. It automa
 
 1. Clone this repository:
 
-```git clone https://github.com/yourusername/megaverse-creator.git```<br/>
-```cd megaverse-creator```
+```
+git clone https://github.com/yourusername/megaverse-creator.git
+cd megaverse-creator
+```
 
 2. Install the required packages:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## How to Run
 
@@ -52,7 +56,9 @@ self.candidate_id = "your-candidate-id-here"
 
 2. Run the script:
 
-```python megaverse_creator.py```
+```
+python megaverse_creator.py
+```
 
 The script will automatically fetch the goal map and start creating the Megaverse according to the specifications.
 
